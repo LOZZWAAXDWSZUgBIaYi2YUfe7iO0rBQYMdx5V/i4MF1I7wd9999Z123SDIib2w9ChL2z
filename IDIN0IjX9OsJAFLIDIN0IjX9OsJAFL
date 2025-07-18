@@ -1,4 +1,6 @@
-		game.StarterGui:SetCore("SendNotification", {
+print("main final location succes ")
+
+game.StarterGui:SetCore("SendNotification", {
 			Title = "Main";
 			Text = "Enabled ";
 			Duration = 20;
